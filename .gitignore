@@ -19,3 +19,6 @@ __pycache__/
 
 # system files
 .DS_Store
+
+# roadmap
+roadmap.md
